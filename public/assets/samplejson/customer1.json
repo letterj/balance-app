@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Metro EUR",
+        "number": "1234-222222",
+        "currency_type": "EUR",
+        "balance": 0,
+        "locked": 0
+    },
+    {
+        "name": "Metro JPY",
+        "number": "1234-333333",
+        "currency_type": "JPY",
+        "balance": 0,
+        "locked": 0
+    },
+    {
+        "name": "Metro CAD",
+        "number": "1234-444444",
+        "currency_type": "CAD",
+        "balance": 0,
+        "locked": 0
+    },
+    {
+        "name": "Metro GBP",
+        "number": "1234-555555",
+        "currency_type": "GBP",
+        "balance": 0,
+        "locked": 0
+    },
+    {
+        "name": "Metro AUD",
+        "number": "1234-666666",
+        "currency_type": "AUD",
+        "balance": 0,
+        "locked": 0
+    },
+    {
+        "name": "Metro USD",
+        "number": "1234-111111",
+        "currency_type": "USD",
+        "balance": 200,
+        "locked": 1800
+    }
+]
